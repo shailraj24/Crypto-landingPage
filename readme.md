@@ -13,4 +13,4 @@ it's take near about 1 Hour to complete.
 
 ## Deployed link
 
-[crypto landig page](ninis-restaurant.netlify.app)
+[crypto landig page](crypto-landing-pagee.netlify.app)
